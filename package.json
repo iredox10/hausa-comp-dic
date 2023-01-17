@@ -1,0 +1,16 @@
+{
+  "name": "hausa-comp-dic",
+  "version": "1.0.0",
+  "description": "computer terms in hausa language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idris adam idris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  },
+  "type":"module"
+}
